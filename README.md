@@ -1,3 +1,4 @@
+theme: jekyll-theme-cayman
 title: Welcome to the Ebugologist’s homepage!
 decription: Ebugologist’s homepage
 
